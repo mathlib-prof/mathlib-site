@@ -1,0 +1,9 @@
+title: Mathlib
+description: Cours de mathématiques et SNT
+theme: minima
+
+header_pages:
+  - index.md
+  - SNT/index.md
+  - Seconde/index.md
+  - Premiere-Spe/index.md
