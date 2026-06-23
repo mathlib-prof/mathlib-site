@@ -1,2 +1,2 @@
 # mathlib-site
-Cours pour élèves de Lycée
+Site de Monsieur Libbrecht
