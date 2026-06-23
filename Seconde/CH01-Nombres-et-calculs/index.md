@@ -7,5 +7,5 @@ title: CH01 - Nombres et calculs
 
 ## 📄 Documents
 
-- 📘 [Cours PDF](cours.pdf)
-- 📊 [Exercices PDF](exercices.pdf)
+- 📘 [Cours PDF](CH01-Nombres-et-calculs-cours.pdf)
+- 📊 [Exercices PDF](CH01-Nombres-et-calculs-exercices.pdf)
