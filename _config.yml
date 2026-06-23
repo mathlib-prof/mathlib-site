@@ -5,5 +5,5 @@ theme: minima
 header_pages:
   - index.md
   - SNT/index.md
-  - Seconde/index.md
-  - Premiere-Spe/index.md
+  - Seconde-Maths/index.md
+  - Premiere-Spé-Maths/index.md
