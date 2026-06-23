@@ -3,7 +3,7 @@ layout: page
 title: Seconde Maths
 ---
 
-# Seconde Maths
+
 
 - [CH01 Nombres et calculs](CH01-Nombres-et-calculs/)
 - [CH02 Géométrie non repérée](CH02-geometrie-non-reperes/)
