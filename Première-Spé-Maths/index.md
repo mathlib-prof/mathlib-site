@@ -3,7 +3,7 @@ layout: page
 title: Première Spé Maths
 ---
 
-# Première Spé Maths
+
 
 - [CH01 Second degré](CH01-second-degre/)
 - [CH02 Suites](CH02-suites/)
