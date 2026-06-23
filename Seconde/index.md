@@ -5,7 +5,7 @@ title: Seconde Maths
 
 # Seconde Maths
 
-- [CH01 Nombres et calculs](CH01-nombres-et-calculs/)
+- [CH01 Nombres et calculs](CH01-Nombres-et-calculs/)
 - [CH02 Géométrie non repérée](CH02-geometrie-non-reperes/)
 - [CH03 Intervalles et inégalités](CH03-intervalles-inequations/)
 - [CH04 Fonctions](CH04-fonctions/)
