@@ -6,7 +6,7 @@ title: Première Spé Maths
 
 
 - [CH01 Second degré](CH01-second-degre/)
-- [CH02 Suites](CH02-suites/)
+- [CH02 Suites](CH02-Suites/)
 - [CH03 Dérivation](CH03-derivation/)
 - [CH04 Probabilités conditionnelles](CH04-probabilites-conditionnelles/)
 - [CH05 Trigonométrie](CH05-trigonometrie/)
