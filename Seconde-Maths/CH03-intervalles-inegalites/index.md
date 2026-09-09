@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CH03 - intervalles et inégalités 
+title: CH03 - intervalles, inégalités et inéquations 
 ---
 
 
