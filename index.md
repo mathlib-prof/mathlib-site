@@ -11,5 +11,6 @@ Bienvenue sur la plateforme de cours :
 - Seconde Maths
 - Première Spécialité Maths
 - Première Spécialité NSI
+- Terminale Spécialité NSI
 
 Choisissez une section dans le menu.
