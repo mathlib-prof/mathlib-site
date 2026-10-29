@@ -8,7 +8,7 @@ title: Seconde Maths
 - [CH01 Nombres et calculs](CH01-nombres-et-calculs/)
 - [CH02 Géométrie non repérée](CH02-géometrie-non-reperée-vecteurs/)
 - [CH03 Intervalles et inégalités](CH03-intervalles-inegalites/)
-- [CH04 Fonctions](CH04-fonctions/)
+- [CH04 Fonctions](CH04-generalite-fonctions-fonctions-reference/)
 - [CH05 Proportion et évolution](CH05-proportion-evolution/)
 - [CH06 Calcul littéral](CH06-calcul-litteral/)
 - [CH07 Vecteurs](CH07-vecteurs/)
